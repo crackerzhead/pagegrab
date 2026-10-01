@@ -45,6 +45,16 @@ Keep the extracted folder in place while using the extension.
 4. Review or annotate the capture.
 5. Export it in your preferred format.
 
+## ## ⌨️ Keyboard shortcuts
+
+Capture content quickly with these shortcuts:
+
+- **Grab an element:** `Alt + Shift + G`
+- **Grab a region:** `Alt + Shift + R`
+- **Grab the full page:** `Alt + Shift + F`
+
+You can also customize Chrome shortcuts by opening `chrome://extensions/shortcuts`.
+
 ## 🛡️ Privacy and security
 
 PageGrab is designed to process content locally on your device. It does not require an account or a PageGrab server.
