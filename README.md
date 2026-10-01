@@ -45,7 +45,7 @@ Keep the extracted folder in place while using the extension.
 4. Review or annotate the capture.
 5. Export it in your preferred format.
 
-## ## ⌨️ Keyboard shortcuts
+##  ⌨️ Keyboard shortcuts
 
 Capture content quickly with these shortcuts:
 
